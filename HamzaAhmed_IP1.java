@@ -57,11 +57,6 @@ public class HamzaAhmed_IP1 {
 		/* I used an else statement to skip the division step 
 		 * because the annualRaise is already a decimal value */
 		else {
-			/* used a for loop to forecast the salary adjusted
-			 * with the annual raise starting from year 1 up to the 
-			 * specified year as inputed by the user 
-			 * I also used concatenation to print the results 
-			 * in an appealing manner*/
 			for (int year = 1; year <= numYear; year++) {
 				System.out.println("Year " + year + ": " + usd.format(startingSalary));
 				startingSalary += startingSalary * annualRaise;
