@@ -1,4 +1,4 @@
-# salaryCalculator
+# salaryCalculator - Proj 1
 
 (Salary calculation: compound value) Suppose your starting salary is $50,000 dollars per year. Your company gives your 10% increase per year. Therefore:
  
